@@ -37,9 +37,13 @@ header {
   margin-left: 5px;
 }
 
-.weather-app.data {
+.weather-app-data {
   display: flex;
   justify-content: space-between;
+}
+.weather-app-temperature {
+  font-size: 50px;
+  font-weight: bold;
 }
 .weather-app-city {
   margin: 0;
